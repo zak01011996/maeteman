@@ -52,7 +52,7 @@ As the result you will receive list of mark objects, which will contain X-axis, 
 
 Request:
 ````
-    POST - /api/v1/mark
+    POST - /api/v1/mark (AUTH_TOKEN header should be provided)
 ````
 
 Request body (JSON):
